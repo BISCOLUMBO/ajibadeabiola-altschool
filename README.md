@@ -10,7 +10,7 @@ I'm a Software Engineer, Content Creator, and Project Manager. I'm passionate ab
 - 🌱 I’m currently learning Css, JavaScript, and Linux.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Cloud Engineering(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing abiolaajibade1@yahoo.com@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing abiolaajibade1@yahoo.com.
 
 ---
 
